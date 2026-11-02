@@ -1,0 +1,22 @@
+{
+  "wheel_id": 654,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-108",
+  "project": "home-loan-brokers-newcastle-red-flags-fc04141f4ca7c8364aa64d613",
+  "parent_t1_ref": "newcastlehomeloanbroker-153",
+  "node_role": "feeder",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan brokers newcastle red flags",
+  "intended_url": "https://sitesau.github.io/newcastlehomeloanbroker-108/",
+  "tier": "T2",
+  "writeback_nonce": "806d17cefa74bd9a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-loan-brokers-newcastle-81ad5f9bc87d4e2041b96578abdf7a39702/",
+      "anchor": "Home Loan Brokers Newcastle: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
